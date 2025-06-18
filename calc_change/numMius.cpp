@@ -2,5 +2,4 @@
 
 int numMius(int x) {
 	return x--;
-
 }
