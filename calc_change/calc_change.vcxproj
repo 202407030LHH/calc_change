@@ -132,6 +132,8 @@
     <ClCompile Include="div.cpp" />
     <ClCompile Include="mod.cpp" />
     <ClCompile Include="mul.cpp" />
+    <ClCompile Include="numMius.cpp" />
+    <ClCompile Include="numPlus.cpp" />
     <ClCompile Include="sub.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -139,6 +141,8 @@
     <ClInclude Include="div.h" />
     <ClInclude Include="mod.h" />
     <ClInclude Include="mul.h" />
+    <ClInclude Include="numMius.h" />
+    <ClInclude Include="numPlus.h" />
     <ClInclude Include="option.h" />
     <ClInclude Include="sub.h" />
   </ItemGroup>

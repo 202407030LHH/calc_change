@@ -33,6 +33,12 @@
     <ClCompile Include="mul.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="numPlus.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="numMius.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="add.h">
@@ -51,6 +57,12 @@
       <Filter>헤더 파일</Filter>
     </ClInclude>
     <ClInclude Include="option.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="numMius.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="numPlus.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
